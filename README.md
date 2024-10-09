@@ -1,11 +1,9 @@
 # Project-Planing
 
-### প্রকল্প পরিকল্পনা: ShopSocial
-
 ---
 
 #### ১. **প্রজেক্টের নাম**
-   - **"ShopSocial"**
+   - **"CraftedCircle"**
 
 ---
 
